@@ -1,0 +1,104 @@
+body {
+  background-image: url(../Assignment1/bg.jpg);
+  background-size: cover;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+.title div {
+  padding-top: 15%;
+  font-size: 25px;
+  color: white;
+}
+
+.info {
+  text-align: center;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+h1 {
+  padding-top: 5%;
+  font-size: 20px;
+  font-weight: lighter;
+  color: white;
+}
+
+.loginBox {
+  margin-top: 10px;
+  width: 320px;
+  height: auto;
+  border-radius: 30px;
+  background-color: rgba(185, 186, 186, 0.162);
+  border: 0px;
+  line-height: 380%;
+}
+
+input[type="text"] {
+  padding-left: 10px;
+}
+
+input[type="password"] {
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+::placeholder {
+  color: white;
+  font-size: 13px;
+  padding-left: 7px;
+}
+
+.info button {
+  margin-top: -8px;
+  font-weight: 530;
+  background-color: #fdc4a3;
+  font-size: 13px;
+}
+
+.other div {
+  display: inline-flex;
+  position: relative;
+  margin-top: 30px;
+  justify-content: space-between;
+}
+
+.chkbox {
+  display: block;
+  position: relative;
+  padding-left: 30px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-size: 14px;
+  color: #f5f3f1;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.Remember {
+  color: #f9cdb3;
+}
+
+.accounts div {
+  margin-top: 40px;
+  font-weight: 300px;
+  color: white;
+}
+
+.account {
+  height: 42px;
+  width: 158px;
+  margin-left: 5px;
+  margin-right: 5px;
+  background-color: white;
+  border: 0px;
+  border-radius: 4px;
+  font-size: 95%;
+}
