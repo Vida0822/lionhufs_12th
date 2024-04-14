@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=300&section=header&text=LIONHUFS%212TH%20HUFS%20BACKEND%20REPOSITORY🍀&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF7F00&height=300&section=header&text=LIONHUFS%212TH\n%20HUFS%20BACKEND%20REPOSITORY🍀&fontSize=40)
 
 <div align=center>
 <h3>✨Introduce</h3>
