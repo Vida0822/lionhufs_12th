@@ -1,0 +1,103 @@
+.headerRight {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+header {
+  display: flex;
+  justify-content: flex-end;
+  height: 40px;
+  align-items: center;
+  padding: 10px;
+}
+
+.profile {
+  border-radius: 20px;
+}
+
+#logo {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+#logo img {
+  align-items: center;
+  display: flex;
+  height: 60px;
+}
+
+#search {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100px;
+}
+
+.searchBox {
+  border-radius: 10px;
+  width: 400px;
+  height: 30px;
+  border-style: solid;
+  border-color: gainsboro;
+  border-width: 0.5px;
+}
+
+.buttonBox {
+  display: flex;
+  justify-content: center;
+}
+.buttonBox button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 130px;
+  height: 25px;
+  border: none;
+  margin: 10px;
+}
+
+.comment {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.comment a {
+  margin-left: 5px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding-right: 20px;
+  box-sizing: border-box;
+}
+
+.topFootersection {
+  border-bottom: 1px solid lightgray;
+  padding: 10px;
+}
+
+.bottomFootersection {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+span {
+  font-size: 13px;
+}
+
+.bottomLeftsection {
+  display: flex;
+  gap: 20px;
+}
+
+.bottomRightsection {
+  display: flex;
+  gap: 20px;
+}
